@@ -31,3 +31,9 @@ __About__:    I am currently pursuing B.Tech CSE from SRM University with specia
 __Tech Stack__:  Flutter, Java, Python  
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/adityathakurxd/)  | [GitHub](https://github.com/adityathakurxd) | [Twitter](https://twitter.com/adityathakurxd) | [Instagram](https://www.instagram.com/adityathakurxd/)  
 __Website__:  [YouTube Channel](https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w) | [Portfolio](http://adityathakur.studio/) 
+
+- __Name__: Rohit Kumar Srivastava      
+__Country__: India     
+__About__: A 3rd year BCA students ,A self - taught developer . Competitve programmer and Open Source Enthusiast . I am always ready to learn from others .    
+__Tech Stack__: Java ,Python , HTML and CSS .   
+__Social Handles__: [Twitter](https://twitter.com/iam_rksri) | [GitHub](https://github.com/rcoder23)     
