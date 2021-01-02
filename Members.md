@@ -31,3 +31,11 @@ __About__:    I am currently pursuing B.Tech CSE from SRM University with specia
 __Tech Stack__:  Flutter, Java, Python  
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/adityathakurxd/)  | [GitHub](https://github.com/adityathakurxd) | [Twitter](https://twitter.com/adityathakurxd) | [Instagram](https://www.instagram.com/adityathakurxd/)  
 __Website__:  [YouTube Channel](https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w) | [Portfolio](http://adityathakur.studio/) 
+
+
+- __Name__:  Chandrika Deb     
+__Country__:  India      
+__About__:  Software Associate at Amdocs, a 2020 CS graduate from BIT Mesra. Well versed in Web Development and Deep Learning concepts. Likes to write tech blogs, sketch, dance, and to try anything new!     
+__Tech Stack__:  Spring, Java, Microservices, Python, ML/DL       
+__Social Handles__:  [Twitter](https://twitter.com/chandrikadeb7) | [GitHub](https://github.com/chandrikadeb7) | [Instagram](https://www.instagram.com/___cd.___/)      
+__Website__:  [Portfolio](https://chandrikadeb7.github.io/)      
