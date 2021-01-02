@@ -31,3 +31,12 @@ __About__:    I am currently pursuing B.Tech CSE from SRM University with specia
 __Tech Stack__:  Flutter, Java, Python  
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/adityathakurxd/)  | [GitHub](https://github.com/adityathakurxd) | [Twitter](https://twitter.com/adityathakurxd) | [Instagram](https://www.instagram.com/adityathakurxd/)  
 __Website__:  [YouTube Channel](https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w) | [Portfolio](http://adityathakur.studio/) 
+
+
+- __Name__:  Manish Samota  
+__Country__:  India  
+__About__:    I am currently pursuing B.Tech CSE from CT University. I am a Full Stack Web Developer.   
+__Tech Stack__:   C++, HTML, CSS, Bootstrap, ReactJS, NodeJs, MongoDB, and SQL etc.    
+__Social Handles__: [Twitter](https://twitter.com/manish_samota_1) | [LinkedIn](https://www.linkedin.com/in/manish-samota/)  | [GitHub](https://github.com/manishsamota) | | [Instagram](https://www.instagram.com/manish_samota_1/)    
+__Website__: [Portfolio](https://manishsamota.github.io/Manish_Samota_Portfolio/)
+
