@@ -10,6 +10,13 @@ __Tech Stack__:
 __Social Handles__:  
 __Website__:  
 
+- __Name__:  Amaan Ahmad
+__Country__:  India
+__About__:  Full Stack web developer, I develop scalable web applications.
+__Tech Stack__:  ReactJS, NodeJS, Express, MongoDB, C++, Java, JavaScript
+__Social Handles__:  [Twitter](https://twitter.com/amaancodes) | [Email](mailto:amaan_ahmad_@outlook.com)
+__Website__:  [Blog](https://blog.amaan.codes)
+
 - __Name__: Ahammad Shawki  
 __Country__: Bangladesh  
 __About__: I am a 16 years old Python Programmer, Web Developer, Data Science Enthusiast, Blogger, Math lover, Writer, and Freelancer! I am interested in Problem-solving, Painting, and participating in different Olympiads. I also teach people about starting their programming careers.  
