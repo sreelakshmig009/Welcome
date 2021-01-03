@@ -40,3 +40,11 @@ and a Technical Blogger with special interests in the field of Artificial Intell
 __Tech Stack__:  Flutter, Python, Flask, C/C++, Java, MySQL, Firebase   
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/vaidhyanathansm/)  | [GitHub](https://github.com/smv1999) | [Twitter](https://twitter.com/itssmv1999) | [Instagram](https://www.instagram.com/vaidhyanathan.sm/)  
 __Website__:  [Portfolio](http://smv1999.github.io/) | [Google Play Store](https://play.google.com/store/apps/developer?id=Programmers+Gateway)
+
+
+- __Name__:  Vatsal Kesarwani            
+__Country__:  India  
+__About__:    I am a Computer Science and Engineering student at JSS Academy Of Technical Education, Noida. I am a self-taught developer and a Competitive Programmer. I spend a lot of my development time contributing to open-source projects. Most of it was started by myself which can be found on my GitHub profile. Other than this I have started learning UI development.  
+__Tech Stack__:  Android, Kotlin, Java, C++, Firebase, Git, GitHub, Figma   
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/vatsal-kesarwani/)  | [GitHub](https://github.com/plazzy99) | [Twitter](https://twitter.com/KesarwaniVatsal) | [StackOverflow](https://stackoverflow.com/users/12203379/vatsal-kesarwani)  
+__Website__:  [Portfolio](https://www.notion.so/vatsalkesarwani/Hello-I-am-Vatsal-759580bb25e547889bbdb21e269b5c4b)
