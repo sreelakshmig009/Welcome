@@ -11,11 +11,11 @@ __Social Handles__:
 __Website__:  
 
 - __Name__:  Vedant Pandya  
-__Country__:  India
-__About__:  This is VEDANT PANDYA, presenting my Portfolio. This is a Website for me to show what I have as a skills. If I tell something more about me then I'm a Graduated in Bachelor of Engineering Student with major in Information Technology studied at K. J. Institute of Engineering and Technology, Savli, Vadodara. In terms of skills and Interest, I am proficient in DATA SCIENCE, MACHINE LEARNING, ARTIFICIAL INTELLIGENCE and GOOGLE CLOUD COMPUTING. I am CERTIFIED by GOOGLE CLOUD, STANFORD UNIVERSITY, IBM, DEEP LEARNING in Artificial Intelligence, Data Science and Digital Marketing.
-__Tech Stack__:  C, C++, Java, Python, R Programming, MySQL, MS Excel, Statistics, Google Cloud Platform, AWS, VS Code.
-__Social Handles__:  [Twitter](https://twitter.com/MrVedPandya1) | [GitHub](https://github.com/pandyaved98) | [Email](mailto:pandyaved1999@gmail.com) | [Facebook](https://www.facebook.com/ved.pandya.12/) | [Instagram](https://www.instagram.com/_sabine_wern_) | [LinkedIn](https://www.linkedin.com/in/vedant-pandya-662122135/)
-__Website__:  [Portfolio](https://pandyaved98.github.io/Vedant/)
+__Country__:  India  
+__About__:  This is VEDANT PANDYA, presenting my Portfolio. This is a Website for me to show what I have as a skills. If I tell something more about me then I'm a Graduated in Bachelor of Engineering Student with major in Information Technology studied at K. J. Institute of Engineering and Technology, Savli, Vadodara. In terms of skills and Interest, I am proficient in DATA SCIENCE, MACHINE LEARNING, ARTIFICIAL INTELLIGENCE and GOOGLE CLOUD COMPUTING. I am CERTIFIED by GOOGLE CLOUD, STANFORD UNIVERSITY, IBM, DEEP LEARNING in Artificial Intelligence, Data Science and Digital Marketing.  
+__Tech Stack__:  C, C++, Java, Python, R Programming, MySQL, MS Excel, Statistics, Google Cloud Platform, AWS, VS Code.  
+__Social Handles__:  [Twitter](https://twitter.com/MrVedPandya1) | [GitHub](https://github.com/pandyaved98) | [Email](mailto:pandyaved1999@gmail.com) | [Facebook](https://www.facebook.com/ved.pandya.12/) | [Instagram](https://www.instagram.com/_sabine_wern_) | [LinkedIn](https://www.linkedin.com/in/vedant-pandya-662122135/)  
+__Website__:  [Portfolio](https://pandyaved98.github.io/Vedant/)  
 
 - __Name__: Ahammad Shawki  
 __Country__: Bangladesh  
