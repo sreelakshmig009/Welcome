@@ -10,7 +10,7 @@ __Tech Stack__:
 __Social Handles__:  
 __Website__:  
 
-- __Name__:  Vedant Pandya
+- __Name__:  Vedant Pandya  
 __Country__:  India
 __About__:  This is VEDANT PANDYA, presenting my Portfolio. This is a Website for me to show what I have as a skills. If I tell something more about me then I'm a Graduated in Bachelor of Engineering Student with major in Information Technology studied at K. J. Institute of Engineering and Technology, Savli, Vadodara. In terms of skills and Interest, I am proficient in DATA SCIENCE, MACHINE LEARNING, ARTIFICIAL INTELLIGENCE and GOOGLE CLOUD COMPUTING. I am CERTIFIED by GOOGLE CLOUD, STANFORD UNIVERSITY, IBM, DEEP LEARNING in Artificial Intelligence, Data Science and Digital Marketing.
 __Tech Stack__:  C, C++, Java, Python, R Programming, MySQL, MS Excel, Statistics, Google Cloud Platform, AWS, VS Code.
