@@ -40,3 +40,10 @@ and a Technical Blogger with special interests in the field of Artificial Intell
 __Tech Stack__:  Flutter, Python, Flask, C/C++, Java, MySQL, Firebase   
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/vaidhyanathansm/)  | [GitHub](https://github.com/smv1999) | [Twitter](https://twitter.com/itssmv1999) | [Instagram](https://www.instagram.com/vaidhyanathan.sm/)  
 __Website__:  [Portfolio](http://smv1999.github.io/) | [Google Play Store](https://play.google.com/store/apps/developer?id=Programmers+Gateway)
+
+- __Name__:  Nishkarsh Raj  
+__Country__:  India
+__About__:  DevSecOps and Open Source Enthusiast
+__Tech Stack__:  Docker, GitHub, Azure, Linux Administration, Python, Golang, Apache Maven
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/nishkarshraj) | [GitHub](https://www.github.com/NishkarshRaj) | Twitter(https://www.twitter.com/NishkarshRaj1)
+__Website__:  http://nishkarshraj.github.io
