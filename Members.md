@@ -24,11 +24,28 @@ __Tech Stack__: Python and MERN
 __Social Handles__:  [Twitter](https://twitter.com/jai_dewani) | [GitHub](https://github.com/jai-dewani) | [Instagram](https://www.instagram.com/jai_dewani/)  
 __Website__: [Portfolio](https://jaid.tech/) | [Blogs by Jaid](https://blogs.jaid.tech/)  
 
+
+
+- __Name__:  Aditya Thakur  
+__Country__:  India  
+__About__:    I am currently pursuing B.Tech CSE from SRM University with specialisation in Data Science and Artificial Intelligence. I make programming videos.  
+__Tech Stack__:  Flutter, Java, Python  
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/adityathakurxd/)  | [GitHub](https://github.com/adityathakurxd) | [Twitter](https://twitter.com/adityathakurxd) | [Instagram](https://www.instagram.com/adityathakurxd/)  
+__Website__:  [YouTube Channel](https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w) | [Portfolio](http://adityathakur.studio/) 
+
+
+- __Name__:  Vaidhyanathan S M  
+__Country__:  India  
+__About__:    I am a final year CS undergraduate from Rajalakshmi Engineering College. I am a Native Android and Flutter developer
+and a Technical Blogger with special interests in the field of Artificial Intelligence, Data Science and Machine Learning.  
+__Tech Stack__:  Flutter, Python, Flask, C/C++, Java, MySQL, Firebase   
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/vaidhyanathansm/)  | [GitHub](https://github.com/smv1999) | [Twitter](https://twitter.com/itssmv1999) | [Instagram](https://www.instagram.com/vaidhyanathan.sm/)  
+__Website__:  [Portfolio](http://smv1999.github.io/) | [Google Play Store](https://play.google.com/store/apps/developer?id=Programmers+Gateway)
+
+  
 - __Name__: Keval Prajapati  
 __Country__: India  
-__About__: I am 17 years old first year college student. I know JAVA, DART, FLUTTER, C. I write articles on medium and posts on linkedin. I have interned as a flutter mobile app developer in a small company. I am always there to help (if its in my area of reach). Mostly active on linkedin. Come to say hi.  
-__Tech Stack__: flutter, java, JavaScript, VS code, Android sdk  
+__About__: I am BE IT student. I know JAVA, DART, FLUTTER, C. I write articles on medium and posts on linkedin. I have interned as a flutter mobile app developer in a small company. I am always there to help (if its in my area of reach). Mostly active on linkedin. Come to say hi 👋.  
+__Tech Stack__: flutter, java, JavaScript, VS code, Android sdk, firebase  
 __Social Handles__:  [Linkedin](https://www.linkedin.com/in/kevalprajapati2003/) | [GitHub](https://github.com/kevalprajapati) | [Email](mailto:keval.prajapatimus@gmail.com)   
 __Website__: [Portfolio](https://kevalport.netlify.app/) | [Medium](https://medium.com/@keval.prajapatimus)
-  
-
