@@ -43,7 +43,8 @@ __Website__:  [Portfolio](http://smv1999.github.io/) | [Google Play Store](https
 
 - __Name__: Kishan Kumar Rai 
 __Country__: India  
-__About__: I am a 3rd year CSE undergraduate from J. C. Bose University of Science & Technology, YMCA Faridabad. I am a tech enthusiast, Public Speaker, Writer, Blogger.   
-__Tech Stack__: Python, C/C++, SQL, HTML, CSS, JavaScript, Git, VS Code, 
-__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/kishan-kumar-rai-23112000)  | [GitHub](https://github.com/kishanrajput23) | [Twitter](https://twitter.com/kishan_rajput23) | [Instagram](https://www.instagram.com/kishan_rajput23/)  
+__About__: I am a 3rd year CSE undergraduate from J. C. Bose University of Science & Technology, YMCA Faridabad. I am a tech enthusiast,
+Public Speaker, Writer, Blogger.   
+__Tech Stack__:  Python, C/C++, SQL, HTML, CSS, JavaScript, Git, VS Code
+- __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/kishan-kumar-rai-23112000)  | [GitHub](https://github.com/kishanrajput23) | [Twitter](https://twitter.com/kishan_rajput23) | [Instagram](https://www.instagram.com/kishan_rajput23/)  
 __Website__:  [Blogs](kishan-rai99693.medium.com) 
