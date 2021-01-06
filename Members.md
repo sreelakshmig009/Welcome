@@ -42,7 +42,32 @@ __Tech Stack__:  Flutter, Python, Flask, C/C++, Java, MySQL, Firebase
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/vaidhyanathansm/)  | [GitHub](https://github.com/smv1999) | [Twitter](https://twitter.com/itssmv1999) | [Instagram](https://www.instagram.com/vaidhyanathan.sm/)  
 __Website__:  [Portfolio](http://smv1999.github.io/) | [Google Play Store](https://play.google.com/store/apps/developer?id=Programmers+Gateway)
 
-  
+
+- __Name__: Ravi Bhagyoday   
+__Country__: India  
+__About__: I am Co-founder at Rovae Incorporation, Rovae is an india based IT company, which is a group of IT professionals that specialize in providing services such as Web Development, Cloud Services, IT Security, Marketing, IT Consultancy, and much more. I am an AWS Certified Solution Architect with having good Command on Creating AWS Cloud Infrastructure, Reducing Costing of Existing Cloud Infrastructure, Advanced Backup System on cloud & Secure Cloud Infrastructure. Along with this I am Cyber Security Researcher, I have published Research Papers on the same.  
+__Tech Stack__: Cloud Architect, DevOps, NetOps  
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/ravibhagyoday/) | [Email](mailto:ravi@rovae.in) | [Instagram](https://www.instagram.com/mad_jack__/)   
+__Website__: [Company Portfolio](https://rovae.in/) | [Personal Portfolio](http://madjack.co.in/)
+
+
+- __Name__:  Vatsal Kesarwani            
+__Country__:  India  
+__About__:    I am a Computer Science and Engineering student at JSS Academy Of Technical Education, Noida. I am a self-taught developer and a Competitive Programmer. I spend a lot of my development time contributing to open-source projects. Most of it was started by myself which can be found on my GitHub profile. Other than this I have started learning UI development.  
+__Tech Stack__:  Android, Kotlin, Java, C++, Firebase, Git, GitHub, Figma   
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/vatsal-kesarwani/)  | [GitHub](https://github.com/plazzy99) | [Twitter](https://twitter.com/KesarwaniVatsal) | [StackOverflow](https://stackoverflow.com/users/12203379/vatsal-kesarwani)  
+__Website__:  [Portfolio](https://www.notion.so/vatsalkesarwani/Hello-I-am-Vatsal-759580bb25e547889bbdb21e269b5c4b)
+
+
+- __Name__: Kishan Kumar Rai\
+__Country__: India  
+__About__: I am a 3rd year CSE undergraduate from J. C. Bose University of Science & Technology, YMCA Faridabad. I am a tech enthusiast,
+Public Speaker, Writer, Blogger.   
+__Tech Stack__:  Python, C/C++, SQL, HTML, CSS, JavaScript, Git, VS Code\
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/kishan-kumar-rai-23112000)  | [GitHub](https://github.com/kishanrajput23) | [Twitter](https://twitter.com/kishan_rajput23) | [Instagram](https://www.instagram.com/kishan_rajput23/)  
+__Website__:  [Blogs](kishan-rai99693.medium.com) 
+
+
 - __Name__: Keval Prajapati  
 __Country__: India  
 __About__: I am BE IT student. I know JAVA, DART, FLUTTER, C. I write articles on medium and posts on linkedin. I have interned as a flutter mobile app developer in a small company. I am always there to help (if its in my area of reach). Mostly active on linkedin. Come to say hi 👋.  
