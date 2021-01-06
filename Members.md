@@ -25,7 +25,6 @@ __Social Handles__:  [Twitter](https://twitter.com/jai_dewani) | [GitHub](https:
 __Website__: [Portfolio](https://jaid.tech/) | [Blogs by Jaid](https://blogs.jaid.tech/)  
 
 
-
 - __Name__:  Aditya Thakur  
 __Country__:  India  
 __About__:    I am currently pursuing B.Tech CSE from SRM University with specialisation in Data Science and Artificial Intelligence. I make programming videos.  
@@ -74,3 +73,11 @@ __About__: I am BE IT student. I know JAVA, DART, FLUTTER, C. I write articles o
 __Tech Stack__: flutter, java, JavaScript, VS code, Android sdk, firebase  
 __Social Handles__:  [Linkedin](https://www.linkedin.com/in/kevalprajapati2003/) | [GitHub](https://github.com/kevalprajapati) | [Email](mailto:keval.prajapatimus@gmail.com)   
 __Website__: [Portfolio](https://kevalport.netlify.app/) | [Medium](https://medium.com/@keval.prajapatimus)
+
+
+- __Name__: Priyansh Gupta  
+__Country__: India  
+__About__: I am a Java Developer, currently I'm in 4th year B.Tech graduate from UPES Dehradun. I love to code and make small side projects in my free time.   
+__Tech Stack__: Java, Spring, BigData(Kafka, Hive, MapReduce, Spark) and DevOps.  
+__Social Handles__:  [Twitter](https://twitter.com/priyans78593745) | [GitHub](https://github.com/priyansh19) | [LinkedIn](https://www.linkedin.com/in/priyansh-gupta-649048159/)  
+__Website__: [Portfolio](https://priyanshgupta.netlify.app/)  
