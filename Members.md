@@ -50,3 +50,10 @@ __Tech Stack__: Cloud Architect, DevOps, NetOps
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/ravibhagyoday/) | [Email](mailto:ravi@rovae.in) | [Instagram](https://www.instagram.com/mad_jack__/)   
 __Website__: [Company Portfolio](https://rovae.in/) | [Personal Portfolio](http://madjack.co.in/)
 
+
+- __Name__:  Vatsal Kesarwani            
+__Country__:  India  
+__About__:    I am a Computer Science and Engineering student at JSS Academy Of Technical Education, Noida. I am a self-taught developer and a Competitive Programmer. I spend a lot of my development time contributing to open-source projects. Most of it was started by myself which can be found on my GitHub profile. Other than this I have started learning UI development.  
+__Tech Stack__:  Android, Kotlin, Java, C++, Firebase, Git, GitHub, Figma   
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/vatsal-kesarwani/)  | [GitHub](https://github.com/plazzy99) | [Twitter](https://twitter.com/KesarwaniVatsal) | [StackOverflow](https://stackoverflow.com/users/12203379/vatsal-kesarwani)  
+__Website__:  [Portfolio](https://www.notion.so/vatsalkesarwani/Hello-I-am-Vatsal-759580bb25e547889bbdb21e269b5c4b)
