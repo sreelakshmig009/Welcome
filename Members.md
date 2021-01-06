@@ -97,3 +97,11 @@ __About__:    Aditya Oberai is a third-year student at Amity University, Noida. 
 __Tech Stack__:  Java, Xamarin.Forms (C# and .NET), Azure   
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/adityaoberai1)  | [Twitter](https://twitter.com/adityaoberai1) | [Instagram](https://www.instagram.com/adityaoberai1) | [GitHub](https://github.com/adityaoberai)  
 __Website__:  [Portfolio](https://adityaoberai.live)
+
+
+- __Name__:  Chandrika Deb     
+__Country__:  India      
+__About__:  Software Associate at Amdocs, a 2020 CS graduate from BIT Mesra. Well versed in Web Development and Deep Learning concepts. Likes to write tech blogs, sketch, dance, and to try anything new!     
+__Tech Stack__:  Spring, Java, Microservices, Python, ML/DL       
+__Social Handles__:  [Twitter](https://twitter.com/chandrikadeb7) | [GitHub](https://github.com/chandrikadeb7) | [Instagram](https://www.instagram.com/___cd.___/)      
+__Website__:  [Portfolio](https://chandrikadeb7.github.io/)  
