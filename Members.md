@@ -81,3 +81,11 @@ __About__: I am a Java Developer, currently I'm in 4th year B.Tech graduate from
 __Tech Stack__: Java, Spring, BigData(Kafka, Hive, MapReduce, Spark) and DevOps.  
 __Social Handles__:  [Twitter](https://twitter.com/priyans78593745) | [GitHub](https://github.com/priyansh19) | [LinkedIn](https://www.linkedin.com/in/priyansh-gupta-649048159/)  
 __Website__: [Portfolio](https://priyanshgupta.netlify.app/)  
+
+
+- __Name__: Mutukundu Mahendra Reddy   
+__Country__: India   
+__About__: I am a sophomore at PES College of Engineering,Mandya,Karnataka. Currently I am a front-end developer who wants to become a full stack developer. I have keen interest in Data Science, Machine Learning and Competitive programming.    
+__Tech Stack__: Python, C-programming language, HTML5, CSS3, Javascript    
+__Social Handles__: [GitHub](https://github.com/reddymahendra52)  | [Twitter](https://twitter.com/reddymahendra52)  |  [Email](mailto:reddymahendra52@gmail.com)      
+__Website__: [Portfolio](https://reddymahendra52.tech/)
