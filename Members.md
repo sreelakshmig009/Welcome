@@ -133,3 +133,11 @@ __About__:  Full Stack web developer, I develop scalable web applications.
 __Tech Stack__:  ReactJS, NodeJS, Express, MongoDB, C++, Java, JavaScript  
 __Social Handles__:  [Twitter](https://twitter.com/amaancodes) | [Email](mailto:amaan_ahmad_@outlook.com)  
 __Website__:  [Blog](https://blog.amaan.codes) 
+
+
+- __Name__:  Nishkarsh Raj  
+__Country__:  India
+__About__:  DevSecOps and Open Source Enthusiast
+__Tech Stack__:  Docker, GitHub, Azure, Linux Administration, Python, Golang, Apache Maven
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/nishkarshraj) | [GitHub](https://www.github.com/NishkarshRaj) | Twitter(https://www.twitter.com/NishkarshRaj1)
+__Website__:  http://nishkarshraj.github.io
