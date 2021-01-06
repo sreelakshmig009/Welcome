@@ -57,3 +57,12 @@ __About__:    I am a Computer Science and Engineering student at JSS Academy Of 
 __Tech Stack__:  Android, Kotlin, Java, C++, Firebase, Git, GitHub, Figma   
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/vatsal-kesarwani/)  | [GitHub](https://github.com/plazzy99) | [Twitter](https://twitter.com/KesarwaniVatsal) | [StackOverflow](https://stackoverflow.com/users/12203379/vatsal-kesarwani)  
 __Website__:  [Portfolio](https://www.notion.so/vatsalkesarwani/Hello-I-am-Vatsal-759580bb25e547889bbdb21e269b5c4b)
+
+
+- __Name__: Kishan Kumar Rai\
+__Country__: India  
+__About__: I am a 3rd year CSE undergraduate from J. C. Bose University of Science & Technology, YMCA Faridabad. I am a tech enthusiast,
+Public Speaker, Writer, Blogger.   
+__Tech Stack__:  Python, C/C++, SQL, HTML, CSS, JavaScript, Git, VS Code\
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/kishan-kumar-rai-23112000)  | [GitHub](https://github.com/kishanrajput23) | [Twitter](https://twitter.com/kishan_rajput23) | [Instagram](https://www.instagram.com/kishan_rajput23/)  
+__Website__:  [Blogs](kishan-rai99693.medium.com) 
