@@ -10,6 +10,13 @@ __Tech Stack__:
 __Social Handles__:  
 __Website__:  
 
+- __Name__:  Vedant Pandya  
+__Country__:  India  
+__About__:  This is VEDANT PANDYA, presenting my Portfolio. This is a Website for me to show what I have as a skills. If I tell something more about me then I'm a Graduated in Bachelor of Engineering Student with major in Information Technology studied at K. J. Institute of Engineering and Technology, Savli, Vadodara. In terms of skills and Interest, I am proficient in DATA SCIENCE, MACHINE LEARNING, ARTIFICIAL INTELLIGENCE and GOOGLE CLOUD COMPUTING. I am CERTIFIED by GOOGLE CLOUD, STANFORD UNIVERSITY, IBM, DEEP LEARNING in Artificial Intelligence, Data Science and Digital Marketing.  
+__Tech Stack__:  C, C++, Java, Python, R Programming, MySQL, MS Excel, Statistics, Google Cloud Platform, AWS, VS Code.  
+__Social Handles__:  [Twitter](https://twitter.com/MrVedPandya1) | [GitHub](https://github.com/pandyaved98) | [Email](mailto:pandyaved1999@gmail.com) | [Facebook](https://www.facebook.com/ved.pandya.12/) | [Instagram](https://www.instagram.com/_sabine_wern_) | [LinkedIn](https://www.linkedin.com/in/vedant-pandya-662122135/)  
+__Website__:  [Portfolio](https://pandyaved98.github.io/Vedant/)  
+
 - __Name__: Ahammad Shawki  
 __Country__: Bangladesh  
 __About__: I am a 16 years old Python Programmer, Web Developer, Data Science Enthusiast, Blogger, Math lover, Writer, and Freelancer! I am interested in Problem-solving, Painting, and participating in different Olympiads. I also teach people about starting their programming careers.  
@@ -23,7 +30,6 @@ __About__: A 4th year B.Tech graduate from IIIT Naya Raipur. An upcoming FullSta
 __Tech Stack__: Python and MERN  
 __Social Handles__:  [Twitter](https://twitter.com/jai_dewani) | [GitHub](https://github.com/jai-dewani) | [Instagram](https://www.instagram.com/jai_dewani/)  
 __Website__: [Portfolio](https://jaid.tech/) | [Blogs by Jaid](https://blogs.jaid.tech/)  
-
 
 
 - __Name__:  Aditya Thakur  
@@ -65,3 +71,58 @@ __Tech Stack__:  Android, Kotlin, Java, C++, Firebase, Git, GitHub, Figma
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/vatsal-kesarwani/)  | [GitHub](https://github.com/plazzy99) | [Twitter](https://twitter.com/KesarwaniVatsal) | [StackOverflow](https://stackoverflow.com/users/12203379/vatsal-kesarwani)  
 __Website__:  [Portfolio](https://www.notion.so/vatsalkesarwani/Hello-I-am-Vatsal-759580bb25e547889bbdb21e269b5c4b)
 
+
+- __Name__: Kishan Kumar Rai\
+__Country__: India  
+__About__: I am a 3rd year CSE undergraduate from J. C. Bose University of Science & Technology, YMCA Faridabad. I am a tech enthusiast,
+Public Speaker, Writer, Blogger.   
+__Tech Stack__:  Python, C/C++, SQL, HTML, CSS, JavaScript, Git, VS Code\
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/kishan-kumar-rai-23112000)  | [GitHub](https://github.com/kishanrajput23) | [Twitter](https://twitter.com/kishan_rajput23) | [Instagram](https://www.instagram.com/kishan_rajput23/)  
+__Website__:  [Blogs](kishan-rai99693.medium.com) 
+
+
+- __Name__: Keval Prajapati  
+__Country__: India  
+__About__: I am BE IT student. I know JAVA, DART, FLUTTER, C. I write articles on medium and posts on linkedin. I have interned as a flutter mobile app developer in a small company. I am always there to help (if its in my area of reach). Mostly active on linkedin. Come to say hi 👋.  
+__Tech Stack__: flutter, java, JavaScript, VS code, Android sdk, firebase  
+__Social Handles__:  [Linkedin](https://www.linkedin.com/in/kevalprajapati2003/) | [GitHub](https://github.com/kevalprajapati) | [Email](mailto:keval.prajapatimus@gmail.com)   
+__Website__: [Portfolio](https://kevalport.netlify.app/) | [Medium](https://medium.com/@keval.prajapatimus)
+
+
+- __Name__: Priyansh Gupta  
+__Country__: India  
+__About__: I am a Java Developer, currently I'm in 4th year B.Tech graduate from UPES Dehradun. I love to code and make small side projects in my free time.   
+__Tech Stack__: Java, Spring, BigData(Kafka, Hive, MapReduce, Spark) and DevOps.  
+__Social Handles__:  [Twitter](https://twitter.com/priyans78593745) | [GitHub](https://github.com/priyansh19) | [LinkedIn](https://www.linkedin.com/in/priyansh-gupta-649048159/)  
+__Website__: [Portfolio](https://priyanshgupta.netlify.app/)  
+
+
+- __Name__: Mutukundu Mahendra Reddy   
+__Country__: India   
+__About__: I am a sophomore at PES College of Engineering,Mandya,Karnataka. Currently I am a front-end developer who wants to become a full stack developer. I have keen interest in Data Science, Machine Learning and Competitive programming.    
+__Tech Stack__: Python, C-programming language, HTML5, CSS3, Javascript    
+__Social Handles__: [GitHub](https://github.com/reddymahendra52)  | [Twitter](https://twitter.com/reddymahendra52)  |  [Email](mailto:reddymahendra52@gmail.com)      
+__Website__: [Portfolio](https://reddymahendra52.tech/)
+
+
+- __Name__:  Aditya Oberai  
+__Country__:  India  
+__About__:    Aditya Oberai is a third-year student at Amity University, Noida. Having worked with various technologies recently such as Xamarin.Forms, Microsoft Azure, etc., he spends most of his time working in tech communities as a Gold Microsoft Learn Student Ambassador, MLH Coach, and an #IamRemarkable facilitator. Aditya was the winner of the first-ever Microsoft Visual Studio Code Hackathon. Aditya was awarded an Azure Heroes "Community Hero" Digital Badger by Microsoft and has been selected as a member of the .NET Foundation as well.  
+__Tech Stack__:  Java, Xamarin.Forms (C# and .NET), Azure   
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/adityaoberai1)  | [Twitter](https://twitter.com/adityaoberai1) | [Instagram](https://www.instagram.com/adityaoberai1) | [GitHub](https://github.com/adityaoberai)  
+__Website__:  [Portfolio](https://adityaoberai.live)
+
+
+- __Name__:  Chandrika Deb     
+__Country__:  India      
+__About__:  Software Associate at Amdocs, a 2020 CS graduate from BIT Mesra. Well versed in Web Development and Deep Learning concepts. Likes to write tech blogs, sketch, dance, and to try anything new!     
+__Tech Stack__:  Spring, Java, Microservices, Python, ML/DL       
+__Social Handles__:  [Twitter](https://twitter.com/chandrikadeb7) | [GitHub](https://github.com/chandrikadeb7) | [Instagram](https://www.instagram.com/___cd.___/)      
+__Website__:  [Portfolio](https://chandrikadeb7.github.io/)  
+
+
+- __Name__: Rohit Kumar Srivastava      
+__Country__: India     
+__About__: A 3rd year BCA students ,A self - taught developer . Competitve programmer and Open Source Enthusiast . I am always ready to learn from others .    
+__Tech Stack__: Java ,Python , HTML and CSS .   
+__Social Handles__: [Twitter](https://twitter.com/iam_rksri) | [GitHub](https://github.com/rcoder23)  
