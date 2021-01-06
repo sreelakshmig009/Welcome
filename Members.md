@@ -126,3 +126,10 @@ __Country__: India
 __About__: A 3rd year BCA students ,A self - taught developer . Competitve programmer and Open Source Enthusiast . I am always ready to learn from others .    
 __Tech Stack__: Java ,Python , HTML and CSS .   
 __Social Handles__: [Twitter](https://twitter.com/iam_rksri) | [GitHub](https://github.com/rcoder23)  
+
+- __Name__:  Amaan Ahmad  
+__Country__:  India  
+__About__:  Full Stack web developer, I develop scalable web applications.  
+__Tech Stack__:  ReactJS, NodeJS, Express, MongoDB, C++, Java, JavaScript  
+__Social Handles__:  [Twitter](https://twitter.com/amaancodes) | [Email](mailto:amaan_ahmad_@outlook.com)  
+__Website__:  [Blog](https://blog.amaan.codes) 
