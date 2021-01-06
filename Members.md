@@ -66,3 +66,11 @@ Public Speaker, Writer, Blogger.
 __Tech Stack__:  Python, C/C++, SQL, HTML, CSS, JavaScript, Git, VS Code\
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/kishan-kumar-rai-23112000)  | [GitHub](https://github.com/kishanrajput23) | [Twitter](https://twitter.com/kishan_rajput23) | [Instagram](https://www.instagram.com/kishan_rajput23/)  
 __Website__:  [Blogs](kishan-rai99693.medium.com) 
+
+
+- __Name__: Keval Prajapati  
+__Country__: India  
+__About__: I am BE IT student. I know JAVA, DART, FLUTTER, C. I write articles on medium and posts on linkedin. I have interned as a flutter mobile app developer in a small company. I am always there to help (if its in my area of reach). Mostly active on linkedin. Come to say hi 👋.  
+__Tech Stack__: flutter, java, JavaScript, VS code, Android sdk, firebase  
+__Social Handles__:  [Linkedin](https://www.linkedin.com/in/kevalprajapati2003/) | [GitHub](https://github.com/kevalprajapati) | [Email](mailto:keval.prajapatimus@gmail.com)   
+__Website__: [Portfolio](https://kevalport.netlify.app/) | [Medium](https://medium.com/@keval.prajapatimus)
