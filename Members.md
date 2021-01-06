@@ -105,3 +105,10 @@ __About__:  Software Associate at Amdocs, a 2020 CS graduate from BIT Mesra. Wel
 __Tech Stack__:  Spring, Java, Microservices, Python, ML/DL       
 __Social Handles__:  [Twitter](https://twitter.com/chandrikadeb7) | [GitHub](https://github.com/chandrikadeb7) | [Instagram](https://www.instagram.com/___cd.___/)      
 __Website__:  [Portfolio](https://chandrikadeb7.github.io/)  
+
+
+- __Name__: Rohit Kumar Srivastava      
+__Country__: India     
+__About__: A 3rd year BCA students ,A self - taught developer . Competitve programmer and Open Source Enthusiast . I am always ready to learn from others .    
+__Tech Stack__: Java ,Python , HTML and CSS .   
+__Social Handles__: [Twitter](https://twitter.com/iam_rksri) | [GitHub](https://github.com/rcoder23)  
