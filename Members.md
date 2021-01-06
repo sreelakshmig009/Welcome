@@ -141,3 +141,11 @@ __About__:  DevSecOps and Open Source Enthusiast
 __Tech Stack__:  Docker, GitHub, Azure, Linux Administration, Python, Golang, Apache Maven
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/nishkarshraj) | [GitHub](https://www.github.com/NishkarshRaj) | Twitter(https://www.twitter.com/NishkarshRaj1)
 __Website__:  http://nishkarshraj.github.io
+
+
+- __Name__: Vanshika Garg
+__Country__: INDIA  
+__About__: I am currently pursuing B.Tech CSE from Banasthali Vidyapith. I am the Google Developer Student Clubs Lead at my Campus and currently interning at CRIS as a Software Developer. Being a technology enthusiast, I love to explore new horizons including open-source contribution and Data Science. I am driven by the will to create an impact and encourage diversity and inclusion in communities.  
+__Tech Stack__: Python, Django, C/C++, HTML, CSS, JavaScript, PostgreSQL  
+__Social Handles__:  [Twitter](https://twitter.com/vanshika_garg17) | [GitHub](https://github.com/Vanshikagarg17) | [Linkedin](https://www.linkedin.com/in/vanshikagarg17/)    
+__Website__: [Portfolio](https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17/)
