@@ -89,3 +89,11 @@ __About__: I am a sophomore at PES College of Engineering,Mandya,Karnataka. Curr
 __Tech Stack__: Python, C-programming language, HTML5, CSS3, Javascript    
 __Social Handles__: [GitHub](https://github.com/reddymahendra52)  | [Twitter](https://twitter.com/reddymahendra52)  |  [Email](mailto:reddymahendra52@gmail.com)      
 __Website__: [Portfolio](https://reddymahendra52.tech/)
+
+
+- __Name__:  Aditya Oberai  
+__Country__:  India  
+__About__:    Aditya Oberai is a third-year student at Amity University, Noida. Having worked with various technologies recently such as Xamarin.Forms, Microsoft Azure, etc., he spends most of his time working in tech communities as a Gold Microsoft Learn Student Ambassador, MLH Coach, and an #IamRemarkable facilitator. Aditya was the winner of the first-ever Microsoft Visual Studio Code Hackathon. Aditya was awarded an Azure Heroes "Community Hero" Digital Badger by Microsoft and has been selected as a member of the .NET Foundation as well.  
+__Tech Stack__:  Java, Xamarin.Forms (C# and .NET), Azure   
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/adityaoberai1)  | [Twitter](https://twitter.com/adityaoberai1) | [Instagram](https://www.instagram.com/adityaoberai1) | [GitHub](https://github.com/adityaoberai)  
+__Website__:  [Portfolio](https://adityaoberai.live)
