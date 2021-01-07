@@ -157,3 +157,10 @@ __About__: Member of Technical Staff at Zettabytes Inc.. Love to work with Javas
 __Tech Stack__: Javascript | React | Node | Python | Go
 __Social Handles__:  [Twitter](https://twitter.com/shvmsrma) | [GitHub](https://github.com/shvmsrma) 
 __Website__: [Portfolio](https://shvmsrma.github.io) 
+
+- __Name__:  Suraj Verma  
+__Country__:  India   
+__About__:  A sophomore year undergrad from VIT Vellore, Loves writing tech blogs and programming.  
+__Tech Stack__:  MERN Stack, Python, Git.     
+__Social Handles__:  [Twitter](https://twitter.com/imsurajv) | [GitHub](https://github.com/Surajv311)   
+__Website__:  [Portfolio](https://surajverma.netlify.app/)
