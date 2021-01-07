@@ -132,31 +132,38 @@ __Country__:  India
 __About__:  Full Stack web developer, I develop scalable web applications.  
 __Tech Stack__:  ReactJS, NodeJS, Express, MongoDB, C++, Java, JavaScript  
 __Social Handles__:  [Twitter](https://twitter.com/amaancodes) | [Email](mailto:amaan_ahmad_@outlook.com)  
-__Website__:  [Blog](https://blog.amaan.codes) 
+__Website__:  [Blog](https://blog.amaan.codes)  
 
+- __Name__:  Rahul Sain  
+__Country__:  India  
+__About__:  I am a second year CS undergraduate from BPIT, Delhi. I am currently unfolding the abstract of Android in Kotlin langauge, I also make podcast for various DSA question for a quick revision before an interview.  
+__Tech Stack__:  C/C++, Java, Kotlin, Firebase   
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/rahulsain/)  | [GitHub](https://github.com/rahulsain) | [Twitter](https://twitter.com/rahul_sain01) | [Instagram](instagram.com/_rahulsain/)  
+__Website__:  [Podcast](https://anchor.fm/rahulsain) | [Listen to my Podcast on Spotify](https://open.spotify.com/show/1CJoDKXx9tmk5BxI0pvgGX)  
 
-- __Name__:  Nishkarsh Raj  
-__Country__:  India
-__About__:  DevSecOps and Open Source Enthusiast
-__Tech Stack__:  Docker, GitHub, Azure, Linux Administration, Python, Golang, Apache Maven
-__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/nishkarshraj) | [GitHub](https://www.github.com/NishkarshRaj) | Twitter(https://www.twitter.com/NishkarshRaj1)
+- __Name__:  Nishkarsh Raj     
+__Country__:  India    
+__About__:  DevSecOps and Open Source Enthusiast    
+__Tech Stack__:  Docker, GitHub, Azure, Linux Administration, Python, Golang, Apache Maven   
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/nishkarshraj) | [GitHub](https://www.github.com/NishkarshRaj) | [Twitter](https://www.twitter.com/NishkarshRaj1)    
 __Website__:  http://nishkarshraj.github.io
 
 
-- __Name__: Vanshika Garg
+- __Name__: Vanshika Garg   
 __Country__: INDIA  
-__About__: I am currently pursuing B.Tech CSE from Banasthali Vidyapith. I am the Google Developer Student Clubs Lead at my Campus and currently interning at CRIS as a Software Developer. Being a technology enthusiast, I love to explore new horizons including open-source contribution and Data Science. I am driven by the will to create an impact and encourage diversity and inclusion in communities.  
-__Tech Stack__: Python, Django, C/C++, HTML, CSS, JavaScript, PostgreSQL  
-__Social Handles__:  [Twitter](https://twitter.com/vanshika_garg17) | [GitHub](https://github.com/Vanshikagarg17) | [Linkedin](https://www.linkedin.com/in/vanshikagarg17/)    
+__About__: I am currently pursuing B.Tech CSE from Banasthali Vidyapith. I am the Google Developer Student Clubs Lead at my Campus and currently interning at CRIS as a Software Developer. Being a technology enthusiast, I love to explore new horizons including open-source contribution and Data Science. I am driven by the will to create an impact and encourage diversity and inclusion in communities.     
+__Tech Stack__: Python, Django, C/C++, HTML, CSS, JavaScript, PostgreSQL      
+__Social Handles__:  [Twitter](https://twitter.com/vanshika_garg17) | [GitHub](https://github.com/Vanshikagarg17) | [Linkedin](https://www.linkedin.com/in/vanshikagarg17/)         
 __Website__: [Portfolio](https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17/)
 
 
-- __Name__: Shivam Sharma
+- __Name__: Shivam Sharma  
 __Country__: India  
 __About__: Member of Technical Staff at Zettabytes Inc.. Love to work with Javascript. Have experience of React , Node and beginner in Go.  
 __Tech Stack__: Javascript | React | Node | Python | Go
 __Social Handles__:  [Twitter](https://twitter.com/shvmsrma) | [GitHub](https://github.com/shvmsrma) 
 __Website__: [Portfolio](https://shvmsrma.github.io) 
+
 
 - __Name__: Suraj Verma  
 __Country__: India   
@@ -164,3 +171,4 @@ __About__: A sophomore year undergrad from VIT Vellore, Loves writing tech blogs
 __Tech Stack__: MERN Stack, Python, Git.     
 __Social Handles__: [Twitter](https://twitter.com/imsurajv) | [GitHub](https://github.com/Surajv311)   
 __Website__: [Portfolio](https://surajverma.netlify.app/)
+
