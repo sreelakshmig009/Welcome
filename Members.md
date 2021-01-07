@@ -31,6 +31,12 @@ __Tech Stack__: Python and MERN
 __Social Handles__:  [Twitter](https://twitter.com/jai_dewani) | [GitHub](https://github.com/jai-dewani) | [Instagram](https://www.instagram.com/jai_dewani/)  
 __Website__: [Portfolio](https://jaid.tech/) | [Blogs by Jaid](https://blogs.jaid.tech/)  
 
+- __Name__:  Musavveer Rehaman
+__Country__:  India  
+__About__:    I am a sophomore at VVIT, Bangalore, Karnataka. I am an Open-Source enthusiast and a Tech-Savvy.
+__Tech Stack__:  Python, C-programming, HTML5, CSS3, Javascript  
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/musavveer-rehaman-028b081a1/)  | [GitHub](https://github.com/musavveer) | [Twitter](https://twitter.com/iammusavveer) | [Instagram](https://www.instagram.com/rehxmxn/) | [Email](mailto:iammusavveer@gmail.com)
+__Website__:  [YouTube Channel](https://www.youtube.com/channel/UCMOxg0eXSgPfvEGA9KaB5Fw)
 
 - __Name__:  Aditya Thakur  
 __Country__:  India  
@@ -160,6 +166,6 @@ __Website__: [Portfolio](https://criodo.github.io/Crio-Launch-Feb-2020-vanshikag
 - __Name__: Shivam Sharma  
 __Country__: India  
 __About__: Member of Technical Staff at Zettabytes Inc.. Love to work with Javascript. Have experience of React , Node and beginner in Go.  
-__Tech Stack__: Javascript | React | Node | Python | Go  
-__Social Handles__:  [Twitter](https://twitter.com/shvmsrma) | [GitHub](https://github.com/shvmsrma)  
-__Website__: [Portfolio](https://shvmsrma.github.io)  
+__Tech Stack__: Javascript | React | Node | Python | Go
+__Social Handles__:  [Twitter](https://twitter.com/shvmsrma) | [GitHub](https://github.com/shvmsrma) 
+__Website__: [Portfolio](https://shvmsrma.github.io) 
