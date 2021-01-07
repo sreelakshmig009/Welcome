@@ -132,8 +132,14 @@ __Country__:  India
 __About__:  Full Stack web developer, I develop scalable web applications.  
 __Tech Stack__:  ReactJS, NodeJS, Express, MongoDB, C++, Java, JavaScript  
 __Social Handles__:  [Twitter](https://twitter.com/amaancodes) | [Email](mailto:amaan_ahmad_@outlook.com)  
-__Website__:  [Blog](https://blog.amaan.codes) 
+__Website__:  [Blog](https://blog.amaan.codes)  
 
+- __Name__:  Rahul Sain  
+__Country__:  India  
+__About__:  I am a second year CS undergraduate from BPIT, Delhi. I am currently unfolding the abstract of Android in Kotlin langauge, I also make podcast for various DSA question for a quick revision before an interview.  
+__Tech Stack__:  C/C++, Java, Kotlin, Firebase   
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/rahulsain/)  | [GitHub](https://github.com/rahulsain) | [Twitter](https://twitter.com/rahul_sain01) | [Instagram](instagram.com/_rahulsain/)  
+__Website__:  [Podcast](https://anchor.fm/rahulsain) | [Listen to my Podcast on Spotify](https://open.spotify.com/show/1CJoDKXx9tmk5BxI0pvgGX)  
 
 - __Name__:  Nishkarsh Raj     
 __Country__:  India    
@@ -151,9 +157,9 @@ __Social Handles__:  [Twitter](https://twitter.com/vanshika_garg17) | [GitHub](h
 __Website__: [Portfolio](https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17/)
 
 
-- __Name__: Shivam Sharma   
-__Country__: India     
-__About__: Member of Technical Staff at Zettabytes Inc.. Love to work with Javascript. Have experience of React , Node and beginner in Go.     
-__Tech Stack__: Javascript | React | Node | Python | Go   
-__Social Handles__:  [Twitter](https://twitter.com/shvmsrma) | [GitHub](https://github.com/shvmsrma)     
-__Website__: [Portfolio](https://shvmsrma.github.io) 
+- __Name__: Shivam Sharma  
+__Country__: India  
+__About__: Member of Technical Staff at Zettabytes Inc.. Love to work with Javascript. Have experience of React , Node and beginner in Go.  
+__Tech Stack__: Javascript | React | Node | Python | Go  
+__Social Handles__:  [Twitter](https://twitter.com/shvmsrma) | [GitHub](https://github.com/shvmsrma)  
+__Website__: [Portfolio](https://shvmsrma.github.io)  
