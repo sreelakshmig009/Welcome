@@ -132,7 +132,7 @@ __Country__:  India
 __About__:  Full Stack web developer, I develop scalable web applications.  
 __Tech Stack__:  ReactJS, NodeJS, Express, MongoDB, C++, Java, JavaScript  
 __Social Handles__:  [Twitter](https://twitter.com/amaancodes) | [Email](mailto:amaan_ahmad_@outlook.com)  
-__Website__:  [Blog](https://blog.amaan.codes)
+__Website__:  [Blog](https://blog.amaan.codes)  
 
 - __Name__:  Rahul Sain  
 __Country__:  India  
@@ -157,9 +157,9 @@ __Social Handles__:  [Twitter](https://twitter.com/vanshika_garg17) | [GitHub](h
 __Website__: [Portfolio](https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17/)
 
 
-- __Name__: Shivam Sharma
+- __Name__: Shivam Sharma  
 __Country__: India  
 __About__: Member of Technical Staff at Zettabytes Inc.. Love to work with Javascript. Have experience of React , Node and beginner in Go.  
-__Tech Stack__: Javascript | React | Node | Python | Go
-__Social Handles__:  [Twitter](https://twitter.com/shvmsrma) | [GitHub](https://github.com/shvmsrma) 
-__Website__: [Portfolio](https://shvmsrma.github.io) 
+__Tech Stack__: Javascript | React | Node | Python | Go  
+__Social Handles__:  [Twitter](https://twitter.com/shvmsrma) | [GitHub](https://github.com/shvmsrma)  
+__Website__: [Portfolio](https://shvmsrma.github.io)  
