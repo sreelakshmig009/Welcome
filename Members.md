@@ -9,6 +9,7 @@ __Tech Stack__: C, C++, Java, Python, R Programming, MySQL, MS Excel, Statistics
 __Social Handles__: [Twitter](https://twitter.com/MrVedPandya1) | [GitHub](https://github.com/pandyaved98) | [Email](mailto:pandyaved1999@gmail.com) | [Facebook](https://www.facebook.com/ved.pandya.12/) | [Instagram](https://www.instagram.com/_sabine_wern_) | [LinkedIn](https://www.linkedin.com/in/vedant-pandya-662122135/)  
 __Website__: [Portfolio](https://pandyaved98.github.io/Vedant/)  
 
+
 - __Name__: Ahammad Shawki  
 __Country__: Bangladesh  
 __About__: I am a 16 years old Python Programmer, Web Developer, Data Science Enthusiast, Blogger, Math lover, Writer, and Freelancer! I am interested in Problem-solving, Painting, and participating in different Olympiads. I also teach people about starting their programming careers.  
@@ -16,12 +17,21 @@ __Tech Stack__: Python, Django, C++, HTML, CSS, JavaScript, Powershell, PostgreS
 __Social Handles__: [Twitter](https://twitter.com/AhammadShawki8) | [GitHub](https://github.com/ahammadshawki8) | [Email](mailto:ahammadshawki8@gmail.com)    
 __Website__: [Portfolio](https://ahammadshawki8.github.io) | [Publications & Blogs](https://ahammadshawki8.github.io/Publog.html)
 
+
 - __Name__: Jai Kumar Dewani  
 __Country__: India  
 __About__: A 4th year B.Tech graduate from IIIT Naya Raipur. An upcoming FullStack Intern at Carl Zeiss. Intrested in Competitive Programming and automating boring stuff!  
 __Tech Stack__: Python and MERN  
 __Social Handles__: [Twitter](https://twitter.com/jai_dewani) | [GitHub](https://github.com/jai-dewani) | [Instagram](https://www.instagram.com/jai_dewani/)  
 __Website__: [Portfolio](https://jaid.tech/) | [Blogs by Jaid](https://blogs.jaid.tech/)  
+
+
+- __Name__:  Musavveer Rehaman
+__Country__:  India  
+__About__:    I am a sophomore at VVIT, Bangalore, Karnataka. I am an Open-Source enthusiast and a Tech-Savvy.
+__Tech Stack__:  Python, C-programming, HTML5, CSS3, Javascript  
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/musavveer-rehaman-028b081a1/)  | [GitHub](https://github.com/musavveer) | [Twitter](https://twitter.com/iammusavveer) | [Instagram](https://www.instagram.com/rehxmxn/) | [Email](mailto:iammusavveer@gmail.com)
+__Website__:  [YouTube Channel](https://www.youtube.com/channel/UCMOxg0eXSgPfvEGA9KaB5Fw)
 
 
 - __Name__: Aditya Thakur  
@@ -38,6 +48,7 @@ __About__: I am currently pursuing B.Tech CSE from CT University. I am a Full St
 __Tech Stack__: C++, HTML, CSS, Bootstrap, ReactJS, NodeJs, MongoDB, and SQL etc.    
 __Social Handles__: [Twitter](https://twitter.com/manish_samota_1) | [LinkedIn](https://www.linkedin.com/in/manish-samota/)  | [GitHub](https://github.com/manishsamota) | | [Instagram](https://www.instagram.com/manish_samota_1/)    
 __Website__: [Portfolio](https://manishsamota.github.io/Manish_Samota_Portfolio/)
+
 
 - __Name__: Vaidhyanathan S M  
 __Country__: India  
@@ -119,6 +130,7 @@ __About__: A 3rd year BCA students ,A self - taught developer . Competitve progr
 __Tech Stack__: Java ,Python , HTML and CSS .   
 __Social Handles__: [Twitter](https://twitter.com/iam_rksri) | [GitHub](https://github.com/rcoder23)  
 
+
 - __Name__: Amaan Ahmad  
 __Country__: India  
 __About__: Full Stack web developer, I develop scalable web applications.  
@@ -149,3 +161,12 @@ __About__: Member of Technical Staff at Zettabytes Inc.. Love to work with Javas
 __Tech Stack__: Javascript | React | Node | Python | Go   
 __Social Handles__: [Twitter](https://twitter.com/shvmsrma) | [GitHub](https://github.com/shvmsrma)   
 __Website__: [Portfolio](https://shvmsrma.github.io)   
+
+
+- __Name__: Suraj Verma  
+__Country__: India   
+__About__: A sophomore year undergrad from VIT Vellore, Loves writing tech blogs and programming.  
+__Tech Stack__: MERN Stack, Python, Git.     
+__Social Handles__: [Twitter](https://twitter.com/imsurajv) | [GitHub](https://github.com/Surajv311)   
+__Website__: [Portfolio](https://surajverma.netlify.app/)
+
