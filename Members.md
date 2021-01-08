@@ -178,3 +178,10 @@ __Tech Stack__:  Python, C, C++, Swift, HTML, CSS, Javascript.
 __Social Handles__:  [Twitter](https://twitter.com/PrifyPhilip) | [GitHub](https://github.com/Amchuz) | [Email](mailto:amchu1714@gmail.com) | [Instagram](https://www.instagram.com/amchuz/) | [LinkedIn](https://www.linkedin.com/in/prify-philip-343b53150)  
 __Website__:  [YouTube](https://www.youtube.com/channel/UCzHTmEZykWoSvK2GtNwGj9A) 
 
+- __Name__:  Priyadarshini Chettiar  
+__Country__:  India  
+__About__:  I have just pursued my post graduation MSC in IT, checking out opportunities in tech industry as a fresher. I like to write [Quotes](https://www.yourquote.in/priyadarshini-chettiar-r6iq/quotes) and [Blogs](https://thedriftedsoul.blogspot.com/) to inspire people. Planning to start writing technical blogs.  
+__Tech Stack__:  Flutter, React JS, VBA, DAX, PowerBI   
+__Social Handles__:  [Twitter](https://twitter.com/priya_darshu_) | [GitHub](https://github.com/priyadarshu) | [Email](mailto:priyadarshinichettiar@gmail.com) | [Instagram](https://www.instagram.com/darshu_rejuvenates/) | [LinkedIn](https://www.linkedin.com/in/priyadarshini-chettiar-476332129/)  
+ 
+
