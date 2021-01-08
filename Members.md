@@ -30,7 +30,7 @@ __Website__: [Portfolio](https://jaid.tech/) | [Blogs by Jaid](https://blogs.jai
 __Country__:  India  
 __About__:    I am a sophomore at VVIT, Bangalore, Karnataka. I am an Open-Source enthusiast and a Tech-Savvy.
 __Tech Stack__:  Python, C-programming, HTML5, CSS3, Javascript  
-__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/musavveer-rehaman-028b081a1/)  | [GitHub](https://github.com/musavveer) | [Twitter](https://twitter.com/iammusavveer) | [Instagram](https://www.instagram.com/rehxmxn/) | [Email](mailto:iammusavveer@gmail.com)
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/musavveer-rehaman-028b081a1/)  | [GitHub](https://github.com/musavveer) | [Twitter](https://twitter.com/iammusavveer) | [Instagram](https://www.instagram.com/rehxmxn/) | [Email](mailto:iammusavveer@gmail.com)  
 __Website__:  [YouTube Channel](https://www.youtube.com/channel/UCMOxg0eXSgPfvEGA9KaB5Fw)
 
 
