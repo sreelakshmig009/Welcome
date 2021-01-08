@@ -170,3 +170,11 @@ __Tech Stack__: MERN Stack, Python, Git.
 __Social Handles__: [Twitter](https://twitter.com/imsurajv) | [GitHub](https://github.com/Surajv311)   
 __Website__: [Portfolio](https://surajverma.netlify.app/)
 
+
+- __Name__:  Prify Philip  
+__Country__:  India  
+__About__:  A Computer Engineering Undergraduate from Kerala. Still searching for what interests me. I love making friends but I am an introvert though. I love learning new things. I am a beginner (In everything).  
+__Tech Stack__:  Python, C, C++, Swift, HTML, CSS, Javascript.   
+__Social Handles__:  [Twitter](https://twitter.com/PrifyPhilip) | [GitHub](https://github.com/Amchuz) | [Email](mailto:amchu1714@gmail.com) | [Instagram](https://www.instagram.com/amchuz/) | [LinkedIn](https://www.linkedin.com/in/prify-philip-343b53150)  
+__Website__:  [YouTube](https://www.youtube.com/channel/UCzHTmEZykWoSvK2GtNwGj9A) 
+
