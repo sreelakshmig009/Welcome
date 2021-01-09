@@ -185,11 +185,11 @@ __Tech Stack__: Flutter, React JS, VBA, DAX, PowerBI
 __Social Handles__: [Twitter](https://twitter.com/priya_darshu_) | [GitHub](https://github.com/priyadarshu) | [Email](mailto:priyadarshinichettiar@gmail.com) | [Instagram](https://www.instagram.com/darshu_rejuvenates/) | [LinkedIn](https://www.linkedin.com/in/priyadarshini-chettiar-476332129/)  
  
 
- - __Name__:  Aman Ojha 
+ - __Name__:  Aman Ojha  
  __Country__:  India  
- __About__:  A Undergraduate BCA student from Delhi. Searching for Jobs as a Fresher. I love listening to music **POP Music** and also love to play some PC Games like Assassin's Creed Valhalla and Red Dead Redemption 2 and more.
- __Tech Stack__:  Flutter, React JS, Django, Python, Java, C++, PHP 
- __Social Handles__:  [Twitter](https://twitter.com/coderaman07) | [GitHub](https://github.com/coderaman07) | [Email](mailto:coderaman07@gmail.com) | [Instagram](https://www.instagram.com/aman_.1107/) | [LinkedIn](https://www.linkedin.com/in/coderaman07/)
+ __About__:  A Undergraduate BCA student from Delhi. Searching for Jobs as a Fresher. I love listening to music **POP Music** and also love to play some PC Games like Assassin's Creed Valhalla and Red Dead Redemption 2 and more.  
+ __Tech Stack__:  Flutter, React JS, Django, Python, Java, C++, PHP  
+ __Social Handles__:  [Twitter](https://twitter.com/coderaman07) | [GitHub](https://github.com/coderaman07) | [Email](mailto:coderaman07@gmail.com) | [Instagram](https://www.instagram.com/aman_.1107/) | [LinkedIn](https://www.linkedin.com/in/coderaman07/)  
  __Website__: [Portfolio](https://amanojha.me/)  
 
 
