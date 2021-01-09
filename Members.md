@@ -26,7 +26,7 @@ __Social Handles__: [Twitter](https://twitter.com/jai_dewani) | [GitHub](https:/
 __Website__: [Portfolio](https://jaid.tech/) | [Blogs by Jaid](https://blogs.jaid.tech/)  
 
 
-- __Name__: Musavveer Rehaman
+- __Name__: Musavveer Rehaman    
 __Country__: India  
 __About__: I am a sophomore at VVIT, Bangalore, Karnataka. I am an Open-Source enthusiast and a Tech-Savvy.
 __Tech Stack__: Python, C-programming, HTML5, CSS3, Javascript  
@@ -75,7 +75,7 @@ __Social Handles__: [LinkedIn](https://www.linkedin.com/in/vatsal-kesarwani/)  |
 __Website__: [Portfolio](https://www.notion.so/vatsalkesarwani/Hello-I-am-Vatsal-759580bb25e547889bbdb21e269b5c4b)
 
 
-- __Name__: Kishan Kumar Rai
+- __Name__: Kishan Kumar Rai   
 __Country__: India  
 __About__: I am a 3rd year CSE undergraduate from J. C. Bose University of Science & Technology, YMCA Faridabad. I am a tech enthusiast,
 Public Speaker, Writer, Blogger.   
