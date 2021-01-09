@@ -147,7 +147,7 @@ __Social Handles__: [LinkedIn](https://www.linkedin.com/in/nishkarshraj) | [GitH
 __Website__: http://nishkarshraj.github.io  
 
 
-- __Name__: Vanshika Garg
+- __Name__: Vanshika Garg   
 __Country__: India  
 __About__: I am currently pursuing B.Tech CSE from Banasthali Vidyapith. I am the Google Developer Student Clubs Lead at my Campus and currently interning at CRIS as a Software Developer. Being a technology enthusiast, I love to explore new horizons including open-source contribution and Data Science. I am driven by the will to create an impact and encourage diversity and inclusion in communities.  
 __Tech Stack__: Python, Django, C/C++, HTML, CSS, JavaScript, PostgreSQL  
