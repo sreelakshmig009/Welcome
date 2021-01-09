@@ -26,12 +26,12 @@ __Social Handles__: [Twitter](https://twitter.com/jai_dewani) | [GitHub](https:/
 __Website__: [Portfolio](https://jaid.tech/) | [Blogs by Jaid](https://blogs.jaid.tech/)  
 
 
-- __Name__:  Musavveer Rehaman
-__Country__:  India  
-__About__:    I am a sophomore at VVIT, Bangalore, Karnataka. I am an Open-Source enthusiast and a Tech-Savvy.
-__Tech Stack__:  Python, C-programming, HTML5, CSS3, Javascript  
-__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/musavveer-rehaman-028b081a1/)  | [GitHub](https://github.com/musavveer) | [Twitter](https://twitter.com/iammusavveer) | [Instagram](https://www.instagram.com/rehxmxn/) | [Email](mailto:iammusavveer@gmail.com)  
-__Website__:  [YouTube Channel](https://www.youtube.com/channel/UCMOxg0eXSgPfvEGA9KaB5Fw)
+- __Name__: Musavveer Rehaman
+__Country__: India  
+__About__: I am a sophomore at VVIT, Bangalore, Karnataka. I am an Open-Source enthusiast and a Tech-Savvy.
+__Tech Stack__: Python, C-programming, HTML5, CSS3, Javascript  
+__Social Handles__: [LinkedIn](https://www.linkedin.com/in/musavveer-rehaman-028b081a1/)  | [GitHub](https://github.com/musavveer) | [Twitter](https://twitter.com/iammusavveer) | [Instagram](https://www.instagram.com/rehxmxn/) | [Email](mailto:iammusavveer@gmail.com)  
+__Website__: [YouTube Channel](https://www.youtube.com/channel/UCMOxg0eXSgPfvEGA9KaB5Fw)
 
 
 - __Name__: Aditya Thakur  
@@ -46,7 +46,7 @@ __Website__: [YouTube Channel](https://www.youtube.com/channel/UChCAJNpMwoEUYCsE
 __Country__: India  
 __About__: I am currently pursuing B.Tech CSE from CT University. I am a Full Stack Web Developer.   
 __Tech Stack__: C++, HTML, CSS, Bootstrap, ReactJS, NodeJs, MongoDB, and SQL etc.    
-__Social Handles__: [Twitter](https://twitter.com/manish_samota_1) | [LinkedIn](https://www.linkedin.com/in/manish-samota/)  | [GitHub](https://github.com/manishsamota) | | [Instagram](https://www.instagram.com/manish_samota_1/)    
+__Social Handles__: [Twitter](https://twitter.com/manish_samota_1) | [LinkedIn](https://www.linkedin.com/in/manish-samota/)  | [GitHub](https://github.com/manishsamota) | [Instagram](https://www.instagram.com/manish_samota_1/)    
 __Website__: [Portfolio](https://manishsamota.github.io/Manish_Samota_Portfolio/)
 
 
@@ -171,17 +171,17 @@ __Social Handles__: [Twitter](https://twitter.com/imsurajv) | [GitHub](https://g
 __Website__: [Portfolio](https://surajverma.netlify.app/)
 
 
-- __Name__:  Prify Philip  
-__Country__:  India  
-__About__:  A Computer Engineering Undergraduate from Kerala. Still searching for what interests me. I love making friends but I am an introvert though. I love learning new things. I am a beginner (In everything).  
-__Tech Stack__:  Python, C, C++, Swift, HTML, CSS, Javascript.   
-__Social Handles__:  [Twitter](https://twitter.com/PrifyPhilip) | [GitHub](https://github.com/Amchuz) | [Email](mailto:amchu1714@gmail.com) | [Instagram](https://www.instagram.com/amchuz/) | [LinkedIn](https://www.linkedin.com/in/prify-philip-343b53150)  
+- __Name__: Prify Philip  
+__Country__: India  
+__About__: A Computer Engineering Undergraduate from Kerala. Still searching for what interests me. I love making friends but I am an introvert though. I love learning new things. I am a beginner (In everything).  
+__Tech Stack__: Python, C, C++, Swift, HTML, CSS, Javascript.   
+__Social Handles__: [Twitter](https://twitter.com/PrifyPhilip) | [GitHub](https://github.com/Amchuz) | [Email](mailto:amchu1714@gmail.com) | [Instagram](https://www.instagram.com/amchuz/) | [LinkedIn](https://www.linkedin.com/in/prify-philip-343b53150)  
 __Website__:  [YouTube](https://www.youtube.com/channel/UCzHTmEZykWoSvK2GtNwGj9A) 
 
-- __Name__:  Priyadarshini Chettiar  
-__Country__:  India  
-__About__:  I have just pursued my post graduation MSC in IT, checking out opportunities in tech industry as a fresher. I like to write [Quotes](https://www.yourquote.in/priyadarshini-chettiar-r6iq/quotes) and [Blogs](https://thedriftedsoul.blogspot.com/) to inspire people. Planning to start writing technical blogs.  
-__Tech Stack__:  Flutter, React JS, VBA, DAX, PowerBI   
-__Social Handles__:  [Twitter](https://twitter.com/priya_darshu_) | [GitHub](https://github.com/priyadarshu) | [Email](mailto:priyadarshinichettiar@gmail.com) | [Instagram](https://www.instagram.com/darshu_rejuvenates/) | [LinkedIn](https://www.linkedin.com/in/priyadarshini-chettiar-476332129/)  
+- __Name__: Priyadarshini Chettiar  
+__Country__: India  
+__About__: I have just pursued my post graduation MSC in IT, checking out opportunities in tech industry as a fresher. I like to write [Quotes](https://www.yourquote.in/priyadarshini-chettiar-r6iq/quotes) and [Blogs](https://thedriftedsoul.blogspot.com/) to inspire people. Planning to start writing technical blogs.  
+__Tech Stack__: Flutter, React JS, VBA, DAX, PowerBI   
+__Social Handles__: [Twitter](https://twitter.com/priya_darshu_) | [GitHub](https://github.com/priyadarshu) | [Email](mailto:priyadarshinichettiar@gmail.com) | [Instagram](https://www.instagram.com/darshu_rejuvenates/) | [LinkedIn](https://www.linkedin.com/in/priyadarshini-chettiar-476332129/)  
  
 
