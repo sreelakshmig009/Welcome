@@ -199,3 +199,10 @@ __Tech Stack__:  C/C++, Java, Kotlin, Firebase
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/rahulsain/)  | [GitHub](https://github.com/rahulsain) | [Twitter](https://twitter.com/rahul_sain01) | [Instagram](instagram.com/_rahulsain/)  
 __Website__:  [Podcast](https://anchor.fm/rahulsain) | [Listen to my Podcast on Spotify](https://open.spotify.com/show/1CJoDKXx9tmk5BxI0pvgGX)  
 
+
+- __Name__:  Divyang Bagla 
+__Country__:  India  
+__About__:  I am a Junior year CS undergraduate from MIT-WPU,Pune.I know web develeopment technologies like django, Bootstrap. I like to do the competitive programming.I love learning the new things. 
+__Tech Stack__:  C/C++, Python,MySQL,Django, BootStrap 
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/divyang-bagla-976233176/)  | [GitHub](https://github.com/bagladivyang03)  
+__Website__:  [Portfolio](https://divyangbagla.vercel.app/)  
