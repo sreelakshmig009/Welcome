@@ -206,3 +206,4 @@ __About__: I am a Junior year CS undergraduate from MIT-WPU, Pune.I know web dev
 __Tech Stack__: C/C++, Python,MySQL,Django, BootStrap 
 __Social Handles__: [LinkedIn](https://www.linkedin.com/in/divyang-bagla-976233176/) | [GitHub](https://github.com/bagladivyang03)  
 __Website__: [Portfolio](https://divyangbagla.vercel.app/)  
+
