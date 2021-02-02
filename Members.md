@@ -260,3 +260,10 @@ __About__: Halo jeder! This is Priya Mondal, a sophomore pursuing B.Tech(CSE) fr
 __Tech Stack__: Python, C++, HTML, CSS, Bootstrap, JavaScript, Docker, Kubernetes, Typescript, Git, MLOps, Figma, Adobe XD, Canva
 __Social Handles__: [Twitter](https://twitter.com/PriyaMondal) | [GitHub](https://github.com/Priya96-sketch) | [Email](mailto:priyapujamondal@gmail.com) | [LinkedIn](https://www.linkedin.com/in/priya-mondal-0b343b1a0/) | [Hashnode Blogs](https://hashnode.com/@strugglerpriya)
 
+
+- __Name__: Karuna Tata
+__Country__: India  
+__About__: I am a 19 years old Python Programmer, Data Science Enthusiast.I'm interested in open source and I love art. 
+__Tech Stack__: Python, HTML, CSS, JavaScript, Visual Studio Code.  
+__Social Handles__: [Twitter](https://twitter.com/starlightknown) | [GitHub](https://github.com/kcoder63) | [Email](mailto:karunatata53@gmail.com)    
+ | [LinkedIn](https://www.linkedin.com/in/karuna-tata63/) 
