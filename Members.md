@@ -306,3 +306,10 @@ __Country__: India
 __About__: Namaste, I am 3rd year Computer science student at Arya College of Engineering and IT. I like blogging, problem solving, learning and exploring new stuff. I am looking forward to contribute more and do good to society. I believe that Life is learning and learning is life and one should be positive with things around them.
 __Tech Stack__: C, Java, Python, Git, Front-End developer(MERN stack), ReactJs, MySQL, Google Cloud Platform(beginner), AWS, VS Code, Data Science Enthusiast
 __Social Handles__: [Twitter](https://twitter.com/ssaumyaa_7) | [GitHub](https://github.com/ssaumyaa7) | [Email](mailto:saumya4799@gmail.com) | [Instagram](https://www.instagram.com/ssaumyaa_7) | [LinkedIn](https://www.linkedin.com/in/ssaumyaa7/)  
+
+- __Name__: G Sreelakshmi  
+__Country__: India  
+__About__: I am currently pursuing B.E. CSE from Chennai Institute Of Technology . I love competitive coding and developing new things.  
+__Tech Stack__: Frontend Web Development with React.js,Backend Development with Django/Flask,Machine Learning 
+__Social Handles__: [LinkedIn](https://www.linkedin.com/in/sreelakshmi-g-4a030118b/)  | [GitHub](https://github.com/sreelakshmig009) | [Quora](https://www.quora.com/profile/Sreelakshmi-G-28)  
+
